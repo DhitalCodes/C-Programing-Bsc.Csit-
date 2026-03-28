@@ -15,7 +15,6 @@ int main() {
     d.f = 5.5;
     printf("Float: %.2f\n", d.f);
 
-    // Only last assigned value is valid
     printf("Integer after float assignment: %d\n", d.i);
 
     return 0;
